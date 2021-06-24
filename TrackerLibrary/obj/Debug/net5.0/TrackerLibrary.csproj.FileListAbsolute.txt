@@ -1,0 +1,25 @@
+F:\Programmation\TrackerLibrary\bin\Debug\net5.0\TrackerLibrary.deps.json
+F:\Programmation\TrackerLibrary\bin\Debug\net5.0\TrackerLibrary.dll
+F:\Programmation\TrackerLibrary\bin\Debug\net5.0\ref\TrackerLibrary.dll
+F:\Programmation\TrackerLibrary\bin\Debug\net5.0\TrackerLibrary.pdb
+F:\Programmation\TrackerLibrary\obj\Debug\net5.0\TrackerLibrary.csproj.AssemblyReference.cache
+F:\Programmation\TrackerLibrary\obj\Debug\net5.0\TrackerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programmation\TrackerLibrary\obj\Debug\net5.0\TrackerLibrary.AssemblyInfoInputs.cache
+F:\Programmation\TrackerLibrary\obj\Debug\net5.0\TrackerLibrary.AssemblyInfo.cs
+F:\Programmation\TrackerLibrary\obj\Debug\net5.0\TrackerLibrary.csproj.CoreCompileInputs.cache
+F:\Programmation\TrackerLibrary\obj\Debug\net5.0\TrackerLibrary.dll
+F:\Programmation\TrackerLibrary\obj\Debug\net5.0\ref\TrackerLibrary.dll
+F:\Programmation\TrackerLibrary\obj\Debug\net5.0\TrackerLibrary.pdb
+F:\Programmation\Basket Tournament Handler\TrackerLibrary\bin\Debug\net5.0\TrackerLibrary.deps.json
+F:\Programmation\Basket Tournament Handler\TrackerLibrary\bin\Debug\net5.0\TrackerLibrary.dll
+F:\Programmation\Basket Tournament Handler\TrackerLibrary\bin\Debug\net5.0\ref\TrackerLibrary.dll
+F:\Programmation\Basket Tournament Handler\TrackerLibrary\bin\Debug\net5.0\TrackerLibrary.pdb
+F:\Programmation\Basket Tournament Handler\TrackerLibrary\obj\Debug\net5.0\TrackerLibrary.csproj.AssemblyReference.cache
+F:\Programmation\Basket Tournament Handler\TrackerLibrary\obj\Debug\net5.0\TrackerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programmation\Basket Tournament Handler\TrackerLibrary\obj\Debug\net5.0\TrackerLibrary.AssemblyInfoInputs.cache
+F:\Programmation\Basket Tournament Handler\TrackerLibrary\obj\Debug\net5.0\TrackerLibrary.AssemblyInfo.cs
+F:\Programmation\Basket Tournament Handler\TrackerLibrary\obj\Debug\net5.0\TrackerLibrary.csproj.CoreCompileInputs.cache
+F:\Programmation\Basket Tournament Handler\TrackerLibrary\obj\Debug\net5.0\TrackerLibrary.dll
+F:\Programmation\Basket Tournament Handler\TrackerLibrary\obj\Debug\net5.0\ref\TrackerLibrary.dll
+F:\Programmation\Basket Tournament Handler\TrackerLibrary\obj\Debug\net5.0\TrackerLibrary.pdb
+F:\Programmation\Basket Tournament Handler\TrackerLibrary\bin\Debug\net5.0\TrackerLibrary.dll.config
